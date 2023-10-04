@@ -18,7 +18,7 @@ I will grant your wishes, not by magic, but by code and imagination. I encourage
 ![HTML5](https://img.shields.io/badge/html5-e34c26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/css3-264de4?style=for-the-badge&logo=css3&logoColor=fff)
 ![React](https://img.shields.io/badge/react-283233?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/react-283233?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/react_native-283233?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/next.js-283233?style=for-the-badge&logo=next.js)
 ![Redux](https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux)
 ![RTK Query](https://img.shields.io/badge/rtk_query-764abc?style=for-the-badge&logo=redux)
@@ -40,7 +40,7 @@ I will grant your wishes, not by magic, but by code and imagination. I encourage
 
 ### Additional
 ![Three.js](https://img.shields.io/badge/three.js-fff?style=for-the-badge&logo=three.js&logoColor=000)
-![GSAP](https://img.shields.io/badge/gsap-404d59?style=for-the-badge)
+![GSAP](https://img.shields.io/badge/gsap-8ac640?style=for-the-badge)
 ![Jest](https://img.shields.io/badge/jest-C63D14?style=for-the-badge&logo=jest)
 ![Cypress](https://img.shields.io/badge/cypress-000?style=for-the-badge&logo=cypress)
 ![Auth0](https://img.shields.io/badge/auth0-eb5424?style=for-the-badge&logo=auth0&logoColor=fff)
